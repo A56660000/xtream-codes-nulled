@@ -2,7 +2,9 @@
 
 An English guide to install Xtream Codes panel for free.
 
-We used AWS (Amazon Web Services) for the panel. 
+# Note: This guide is now deprecated please use this one: 
+[Xtream-Codes-Fixed](https://github.com/FirezYT/xtream-codes-fixed/)
+
 If you have problems with other vps services , contact me on Discord @ Firez#7353 .
 
 We recommend Ubuntu 14.04 LTS for the best experience!
