@@ -7,6 +7,8 @@ An English guide to install Xtream Codes panel for free.
 
 If you have problems with other vps services , contact me on Discord @ Firez#7353 .
 
+Official nulled discord: https://discord.gg/FZJjscx
+
 We recommend Ubuntu 14.04 LTS for the best experience!
 
 ## Installation (Ubuntu / Debian)
